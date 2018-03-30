@@ -1,0 +1,19 @@
+input {
+    width: 60px;
+}
+
+button {.
+    margin: 2px;
+}
+
+#random {
+    background-color: #333333;
+    color: #ffffff;
+}
+#number {
+    background-color: #ffb3e6;
+}
+#plus {
+    background-color: #b3b3b3;
+    color: #fff;
+}
