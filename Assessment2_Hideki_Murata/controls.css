@@ -17,3 +17,23 @@ button {.
     background-color: #b3b3b3;
     color: #fff;
 }
+
+.range {
+    width: 8%;
+}
+
+.newDiv {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    display: inline-block;
+}
+
+.newimg {
+  width:auto;
+  height:auto;
+  position: absolute;
+  left:0;
+  right:0;
+  margin:auto;
+}
